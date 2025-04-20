@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as s
 from praisonaiagents import Agent
 
 def init_agent():
