@@ -16,14 +16,14 @@ def init_agent():
                 "model": "deepseek-r1:latest",
                 "temperature": 0,
                 "max_tokens": 8000,
-                "ollama_base_url": "http://localhost:1143",
+                "ollama_base_url": "http://localhost:11434",
             },
         },
         "embedder": {
             "provider": "ollama",
             "config": {
                 "model": "nomic-embed-text:latest",
-                "ollama_base_url": "http://localhost:1143",
+                "ollama_base_url": "http://localhost:11434",
                 "embedding_dims": 1536
             },
         },
