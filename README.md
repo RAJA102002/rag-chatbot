@@ -13,9 +13,9 @@ A Retrieval-Augmented Generation (RAG) chatbot built with Streamlit and open-sou
 ```
 .
 ├── app.py
-├── agents.py            # Main Streamlit App
-├── nature.pdf           # Sample knowledge document
-└── README.md            # Project Documentation
+├── agents.py            # Main Streamlit App.
+├── nature.pdf           # Sample knowledge document.
+└── README.md            # Project Documentation.
 ```
 
 ## Installation & Setup
